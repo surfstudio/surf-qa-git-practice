@@ -1,2 +1,2 @@
-qa_git_practice2
+qa_git_practice3
 qa_git_practice_main
